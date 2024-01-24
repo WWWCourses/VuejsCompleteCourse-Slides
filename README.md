@@ -1,1 +1,3 @@
-# Vue.js - Complete Course  at Progressbg Educational Center
+# Vue.js - Complete Course
+
+at Progressbg Educational Center
