@@ -32,7 +32,7 @@ header .logo{
 
 /* Course about */
 .course_about{
-  display: none;
+  /* display: none; */
   font-family: Roboto, sans-serif;
   margin-top:2em;
 }
